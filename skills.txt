@@ -1,0 +1,11 @@
+python
+machine learning
+java
+sql
+data analysis
+deep learning
+html
+css
+javascript
+react
+c++
