@@ -1,0 +1,5 @@
+streamlit
+PyPDF2
+fuzzywuzzy[speedup]
+pytesseract
+pdf2image
